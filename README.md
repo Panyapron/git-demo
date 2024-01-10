@@ -1,4 +1,4 @@
-# Git-Demo
+# git-demo
 
 A brief description of what this project does and who it's for
 
