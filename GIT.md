@@ -8,4 +8,6 @@
        commit
        checkout main
        merge develop
+       commit
+       commit
 ```
