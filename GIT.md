@@ -1,3 +1,4 @@
+
 ```mermaid
     gitGraph
        commit id: "init"
@@ -10,6 +11,10 @@
        merge develop
        commit
        commit
+       branch feature
        commit
-       commit
+       checkout develop
+       merge feature
+       checkout main
+       merge develop
 ```
