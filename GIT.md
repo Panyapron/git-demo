@@ -18,4 +18,5 @@
        checkout main
        merge develop
        commit id: "merge"
+       commit id: "cherry"
 ```
