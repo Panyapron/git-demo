@@ -19,4 +19,5 @@
        merge develop
        commit id: "merge"
        commit id: "cherry"
+       commit id: "last"
 ```
